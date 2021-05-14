@@ -1,5 +1,5 @@
-# sql-challenge
-Module 9 SQL
+# SQL Challenge
+Module 9 SQL Challenge
 
 ## About
 This module covers the basics of SQL querying. It goes over the fundamentals of data relationships and accessing data from other tables. 
